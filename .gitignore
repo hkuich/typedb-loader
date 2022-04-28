@@ -161,3 +161,7 @@ grami-log.log
 
 src/test/resources/_*
 src/test/java/_*
+
+src/test/resources/_*
+src/test/java/_*
+.idea/*
